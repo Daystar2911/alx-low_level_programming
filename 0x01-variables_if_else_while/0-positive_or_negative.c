@@ -5,7 +5,10 @@
 #include <stdio.h>
 
 /*
- *  main - prints if number is positive, zero or negative
+ *  main - entry point
+ *
+ *  Description: 'prints if number is positive, zero or negative'
+ *
  *  return: Always (success)
  *
  */
